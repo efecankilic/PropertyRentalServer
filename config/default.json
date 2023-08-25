@@ -1,0 +1,5 @@
+{
+    "jwtSecret": "Humber-ESDV",
+    "mongoURI": "mongodb+srv://shivamarora98:LtXtRKxsKxXjPBtF@propertifycluster.bmrhbgi.mongodb.net/?retryWrites=true&w=majority"
+  }
+  
